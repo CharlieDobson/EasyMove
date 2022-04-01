@@ -1,0 +1,11 @@
+C:\Users\Charlie\source\repos\EasyMove\EasyMove\bin\Release\EasyMove.exe.config
+C:\Users\Charlie\source\repos\EasyMove\EasyMove\bin\Release\EasyMove.exe
+C:\Users\Charlie\source\repos\EasyMove\EasyMove\bin\Release\EasyMove.pdb
+C:\Users\Charlie\source\repos\EasyMove\EasyMove\obj\Release\EasyMove.EasyMoveMainForm.resources
+C:\Users\Charlie\source\repos\EasyMove\EasyMove\obj\Release\EasyMove.Properties.Resources.resources
+C:\Users\Charlie\source\repos\EasyMove\EasyMove\obj\Release\EasyMove.csproj.GenerateResource.cache
+C:\Users\Charlie\source\repos\EasyMove\EasyMove\obj\Release\EasyMove.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\EasyMove\EasyMove\obj\Release\EasyMove.exe
+C:\Users\Charlie\source\repos\EasyMove\EasyMove\obj\Release\EasyMove.pdb
+C:\Users\Charlie\source\repos\EasyMove\EasyMove\obj\Release\DobsonUtilities.ProgressDialog.resources
+C:\Users\Charlie\source\repos\EasyMove\EasyMove\obj\Release\EasyMove.csprojAssemblyReference.cache
